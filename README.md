@@ -35,7 +35,7 @@ Executado em "Remote Pair Programming" por:
 
 <div align= 'center'><b>*ENGLISH VERSION*</b></div>
 
-## Brief
+## Briefing
 Create a customized Pokedex from PokeAPI's public data source.
 
 ## Developers
