@@ -31,6 +31,8 @@ Executado em "Remote Pair Programming" por:
 ## API
 [PokeAPI](https://pokeapi.co/)
 
+<hr></hr>
+
 <div align= 'center'><b>*ENGLISH VERSION*</b></div>
 
 ## Brief
