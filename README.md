@@ -58,7 +58,7 @@ Performed in "Remote Pair Programming" by:
 ## Dependencies
 - React
 - React-Dom
-- Stylized components
+- Styled components
 - Axios
 
 ## API
