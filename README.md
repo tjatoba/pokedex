@@ -40,8 +40,8 @@ Create a customized Pokedex from PokeAPI's public data source.
 
 ## Developers
 Performed in "Remote Pair Programming" by:
-- [Paulo Oliveira] (https://github.com/OliveiraPauloC)
-- [Thiago Jatobá] (https://github.com/tjatoba)
+- [Paulo Oliveira](https://github.com/OliveiraPauloC)
+- [Thiago Jatobá](https://github.com/tjatoba)
 
 ## How to view?
 [Pokedex] (http://pokedex10-labenu.surge.sh/)
